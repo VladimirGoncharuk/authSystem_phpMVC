@@ -1,0 +1,33 @@
+
+body {
+    background-image: url("../../images/ground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+body * {
+    box-sizing: border-box;
+}
+
+.error {
+    height: 587px;
+    background-image: url("../../images/not_found.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img {
+    height: 400px;
+    width: 400px;
+
+}
+
+.text {
+    width: 600px;
+    color: bisque;
+    
+}
+.content{
+    margin-left:50px ;
+}
